@@ -1,8 +1,7 @@
 <h1><img src="/MainTitle.png"></h1>
 <h2><img src="/InfoAbtMeTitle.png"></h2>
 <p>
-  <a href="https:\\www.firstframe.net"><img src="https://img.shields.io/badge/Where%20do%20I%20work%3F-firstframe networkers AG-3a1c71"></a><br>
-  <a href="https://www.google.com/maps/place/Z%C3%BCrich/@47.4270996,8.5313151,11z/data=!3m1!4b1!4m5!3m4!1s0x47900a71536df96b:0x63feb85dd77b2e7f!8m2!3d47.359536!4d8.6356452"><img src="https://img.shields.io/badge/Where%20do%20I%20live%3F-Switzerland%2C%20Z%C3%BCrich-3a1c71"></a><br>
+  <a href="https://www.google.ch/maps/place/Aarau/@47.3909297,7.9875661,23622m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47903bec161c5e71:0xcf4b48fa97997f1f!8m2!3d47.390434!4d8.0457015!16zL20vMHpxNg?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"><img src="https://img.shields.io/badge/Where%20do%20I%20live%3F-Switzerland%2C%20Z%C3%BCrich-3a1c71"></a><br>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/What's%20my%20favourite%20Language%3F-Python-3a1c71"></a><br>
 </p>
 
